@@ -1,5 +1,26 @@
+@@ -1,5 +1,23 @@
 body {
   background-color: white;
   color: black;
   font-family: monospace;
+  background-color: #e8e8e8;
+}
+h1 {
+  color: #30475e;
+}
+
+h3 {
+  color: #f05454;
+}
+
+p {
+  color: #30475e;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #222831;
+  border-width: 5px;
+  width: 5%;
 }
